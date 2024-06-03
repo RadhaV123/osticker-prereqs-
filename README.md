@@ -67,7 +67,8 @@ Step 3. Open Microsoft Remote Desktop (If on Mac Desktop)
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![jpeg](https://github.com/RadhaV123/osticker-prereqs-/assets/171521525/3ff80161-f3db-4f6a-bd53-ef341eb76cb1)
+"/>
 </p>
 <p>
 Step 4: Install/Enable IIS in Windows with CGI and Common HTTP features
