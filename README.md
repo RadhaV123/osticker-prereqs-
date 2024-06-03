@@ -145,9 +145,7 @@ Step 9. Some extensions are not enabled.
 - Go back to IIS -> sites -> Default -> osTicket
 - Double click PHP Manager
 - Click "Enable or Disable an extension" Enable: php_imap.dll Enable: php_intl.dll Enable: php_opcache.dll
-
 </p>
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
